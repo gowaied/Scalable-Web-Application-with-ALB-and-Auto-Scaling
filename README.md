@@ -6,7 +6,7 @@ This repository contains the architecture for a highly available, scalable web a
 
 ## 📌 Solution Architecture
 
-![Architecture Diagram](/architecture-diagram.png)
+![Architecture Diagram](./Architecture_Diagram.png)
 
 ---
 
