@@ -27,7 +27,7 @@ This repository contains the architecture for a highly available, scalable web a
 
 ## 🚀 Deployment Instructions
 
-Please refer to [`docs/setup-instructions.md`](docs/setup-instructions.md) for full step-by-step deployment instructions.
+Please refer to [`docs/setup-instructions.md`](./setup-instructions.md) for full step-by-step deployment instructions.
 
 ---
 
