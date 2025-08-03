@@ -17,7 +17,7 @@ This repository contains the architecture for a highly available, scalable web a
 | **EC2**                    | Hosts the web application in multiple AZs for fault tolerance. |
 | **Application Load Balancer (ALB)** | Distributes incoming traffic across EC2 instances. |
 | **Auto Scaling Group (ASG)** | Scales instances based on traffic/load. |
-| **Amazon RDS (optional)**  | Managed relational database service (Multi-AZ). |
+| **Amazon RDS**  | Managed relational database service (Multi-AZ). |
 | **Amazon CloudWatch**      | Collects logs and metrics. |
 | **Amazon SNS**             | Sends notifications based on monitoring alerts. |
 | **IAM Roles**              | Provide secure access to AWS services. |
