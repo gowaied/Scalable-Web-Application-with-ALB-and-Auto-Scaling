@@ -82,7 +82,7 @@ Before you begin, make sure you have the following:
 
 ---
 
-## 🛢️ Step 6: (Optional) Deploy Amazon RDS
+## 🛢️ Step 6: Deploy Amazon RDS
 
 1. Launch an RDS instance (MySQL or PostgreSQL)
 2. Choose **Multi-AZ** deployment
